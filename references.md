@@ -1,6 +1,8 @@
 # Blogs: 
 https://danielfett.de/2020/05/16/pkce-vs-nonce-equivalent-or-not/
+
 https://danielfett.de/
+
 https://www.praetorian.com/blog/attacking-and-defending-oauth-2/
 
 # Checklist:
