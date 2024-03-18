@@ -5,6 +5,8 @@ https://danielfett.de/
 
 https://www.praetorian.com/blog/attacking-and-defending-oauth-2/
 
+https://thecopenhagenbook.com/oauth
+
 # Checklist:
 https://oauch.io/Threats
 
